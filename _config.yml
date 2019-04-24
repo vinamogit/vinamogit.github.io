@@ -20,4 +20,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+remote_theme: mushishi78/one-page-wonder-jekyll
+
+
