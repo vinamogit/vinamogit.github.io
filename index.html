@@ -8,9 +8,9 @@ layout: default
 	<p>L'association a pour but de ...</p>
     {% for elem in site.elements %}
 	<hr />
-        <h2>{{ elem.name }}</h2>
+        <h2 class="post-title">{{ elem.name }}</h2>
 	<h3>{{ elem.sub }}</h3>
-	<p>{{ elem.content }}</p>
+	<p class="post-content">{{ elem.content }}</p>
     {% endfor %}
   <hr />
 </div>
