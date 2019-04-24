@@ -20,3 +20,6 @@ collections:
 	- elements
 # Build settings
 markdown: kramdown
+# Build settings
+markdown: kramdown
+
