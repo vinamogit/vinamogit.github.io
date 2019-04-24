@@ -20,6 +20,6 @@ collections:
 # Build settings
 markdown: kramdown
 
-remote_theme: mushishi78/one-page-wonder-jekyll
+remote_theme: vinamogit/one-page-wonder-jekyll
 
 
