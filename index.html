@@ -4,15 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
-    {% for elem in site.elements %}
-        <h2>
-          {{ elem.name }}
-        </h2>
+  <h1 class="page-heading">L'assos</h1>
+	<p>L'association a pour but de ...</p>
+    {% for elem in site.elements %
+	<hr />
+        <h2>{{ elem.name }}</h2>
 	<h3>{{ elem.sub }}</h3>
 	<p>{{ elem.content }}</p>
     {% endfor %}
-
-
+  <hr />
 </div>
