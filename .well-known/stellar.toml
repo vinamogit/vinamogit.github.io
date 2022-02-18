@@ -1,2 +1,12 @@
 VERSION="2.0.0"
-SQ02_EASTER_EGG=Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!
+
+
+[[CURRENCIES]]
+code="GOAT"
+issuer="GD5T6IPRNCKFOHQWT264YPKOZAWUMMZOLZBJ6BNQMUGPWGRLBK3U7ZNP"
+display_decimals=2
+name="goat share"
+desc="1 GOAT token entitles you to a share of revenue from Elkins Goat Farm."
+conditions="<script>alert('XSS with asset conditions')"
+image="vinamogit.github.io/exploit.png"
+fixed_number=10000
